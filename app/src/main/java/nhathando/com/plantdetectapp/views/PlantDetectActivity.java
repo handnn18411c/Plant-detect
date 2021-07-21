@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import nhathando.com.plantdetectapp.R;
+
 public class PlantDetectActivity extends AppCompatActivity {
 
     @Override
